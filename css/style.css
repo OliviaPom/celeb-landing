@@ -1,0 +1,29 @@
+/* components */
+@import url("components/navbar.css");
+@import url("components/proto_home.css");
+
+/* google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Saira:wght@100;200;300;400&display=swap");
+
+html,
+body {
+  /* height: 100%; */
+  background: linear-gradient(
+    to right,
+    rgb(91, 33, 223) 0%,
+    #5b21df 25%,
+    #1b1b1b 25%,
+    #1b1b1b 100%
+  );
+}
+body {
+  display: flex;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.main-section {
+  width: 66.67%;
+}

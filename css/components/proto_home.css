@@ -1,0 +1,31 @@
+.proto-out-now {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 18vh;
+}
+
+.proto-cover {
+  height: 500px;
+  width: 500px;
+  background-image: linear-gradient(
+      to bottom,
+      rgb(91, 33, 223, 0.3),
+      rgb(91, 33, 223, 0)
+    ),
+    url("https://api.hollyherndon.com/wp-content/uploads/2019/03/HOLLYHERNDON_PROTO_COVERART_500px.jpeg");
+}
+
+#proto-link {
+  text-decoration: none;
+  margin-top: 10px;
+  color: rgb(91, 33, 223);
+  font-family: "Saira", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+}
+
+#proto-link:hover {
+  color: rgb(188, 164, 246);
+  transition: 0.2s;
+}

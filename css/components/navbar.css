@@ -1,0 +1,39 @@
+.sticky-navbar {
+  width: 33.33%;
+  position: sticky;
+  top: 0;
+  align-self: flex-start;
+}
+
+.sticky-navbar > p {
+  color: white;
+  font-size: 100px;
+  font-family: "Saira", sans-serif;
+  font-weight: 200;
+  margin-bottom: 50px;
+  /* text-align: center; */
+}
+.sticky-navbar > ul {
+  color: white;
+  font-size: 28px;
+  font-weight: lighter;
+  letter-spacing: 1.4px;
+  font-family: "Times New Roman", serif;
+  text-align: right;
+  list-style-type: none;
+}
+
+.sticky-navbar > ul > a {
+  color: white;
+  text-decoration: none;
+}
+
+.options {
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.options:hover {
+  color: rgb(188, 164, 246);
+  /* color: rgb(173, 173, 173); */
+}
