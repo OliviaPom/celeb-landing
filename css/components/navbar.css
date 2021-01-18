@@ -5,7 +5,11 @@
   align-self: flex-start;
 }
 
-.sticky-navbar > p {
+.sticky-navbar > a {
+  text-decoration: none;
+}
+
+.sticky-navbar > a > p {
   color: white;
   font-size: 100px;
   font-family: "Saira", sans-serif;

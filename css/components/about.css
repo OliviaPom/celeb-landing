@@ -1,0 +1,24 @@
+.about {
+  width: 55%;
+  margin-left: 28vw;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+
+#about-title {
+  text-align: right;
+  color: rgb(91, 33, 223);
+  font-family: "Saira", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+}
+#about-text {
+  text-align: justify;
+  color: white;
+  font-size: 18px;
+  font-weight: lighter;
+  letter-spacing: 1.4px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+}
