@@ -1,0 +1,41 @@
+.podcast-container {
+  display: flex;
+}
+
+.podcast-container > img {
+  height: 310px;
+  width: 310px;
+  margin-right: 8%;
+  margin-top: 10%;
+}
+
+.podcast-info {
+  margin-right: 2vw;
+}
+
+#podcast-text {
+  text-align: justify;
+  color: white;
+  font-size: 18px;
+  font-weight: lighter;
+  letter-spacing: 1.4px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+}
+
+#podcast-text > a {
+  color: rgb(91, 33, 223);
+  font-size: 18px;
+  font-weight: lighter;
+  letter-spacing: 1.4px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+#podcast-title {
+  text-align: right;
+  color: rgb(91, 33, 223);
+  font-family: "Saira", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+}
