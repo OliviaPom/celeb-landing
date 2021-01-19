@@ -4,6 +4,7 @@
   display: flex;
   flex-direction: column;
   align-items: left;
+  margin-bottom: 20vh;
 }
 
 #about-title {

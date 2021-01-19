@@ -2,10 +2,12 @@
 @import url("components/navbar.css");
 @import url("components/proto_home.css");
 @import url("components/about.css");
+@import url("components/eternal_vid.css");
+@import url("components/live_shows.css");
 
 /* google fonts */
 @import url("https://fonts.googleapis.com/css2?family=Saira:wght@100;200;300;400&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
 html,
 body {
   /* height: 100%; */
