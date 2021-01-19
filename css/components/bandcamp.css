@@ -1,0 +1,18 @@
+.bandcamp-container {
+  display: flex;
+  margin: 5vw;
+}
+
+.bandcamp-text {
+  color: rgb(91, 33, 223);
+  font-family: "Saira", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+}
+
+.bandcamp-text a {
+  color: white;
+  font-family: "Saira", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+}
