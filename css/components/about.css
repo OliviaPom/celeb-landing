@@ -11,13 +11,13 @@
   text-align: right;
   color: rgb(91, 33, 223);
   font-family: "Saira", sans-serif;
-  font-size: 32px;
+  font-size: 2rem;
   font-weight: 300;
 }
 #about-text {
   text-align: justify;
   color: white;
-  font-size: 18px;
+  font-size: 1.125rem;
   font-weight: lighter;
   letter-spacing: 1.4px;
   font-family: "Roboto", sans-serif;

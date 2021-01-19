@@ -11,15 +11,14 @@
 
 .sticky-navbar > a > p {
   color: white;
-  /* font-size: 6.25rem; */
+  font-size: 6.25rem;
   font-family: "Saira", sans-serif;
   font-weight: 200;
   margin-bottom: 50px;
-  /* text-align: center; */
 }
 .sticky-navbar > ul {
   color: white;
-  font-size: 28px;
+  font-size: 1.75rem;
   font-weight: lighter;
   letter-spacing: 1.4px;
   font-family: "Times New Roman", serif;

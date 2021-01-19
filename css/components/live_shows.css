@@ -10,7 +10,7 @@
 .live-show-text > p {
   color: rgb(91, 33, 223);
   font-family: "Saira", sans-serif;
-  font-size: 32px;
+  font-size: 2rem;
   font-weight: 300;
 }
 
@@ -31,5 +31,5 @@
   padding-top: 16px;
   padding-bottom: 16px;
   font-family: "Saira", sans-serif;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
