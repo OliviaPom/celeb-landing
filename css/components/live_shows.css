@@ -20,15 +20,16 @@
 
 .tour-list {
   background: rgb(91, 33, 223);
-  padding-top: 32px;
-  padding-bottom: 26px;
+  padding-top: 100px;
+  padding-bottom: 90px;
   margin-right: 12%;
 }
 
 .tour-cities {
   color: white;
   list-style-type: none;
-  padding-top: 4px;
-  padding-bottom: 4px;
+  padding-top: 16px;
+  padding-bottom: 16px;
   font-family: "Saira", sans-serif;
+  font-size: 20px;
 }
