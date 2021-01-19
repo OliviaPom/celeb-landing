@@ -12,11 +12,12 @@
 .sticky-navbar > a > p {
   color: white;
   /* font-size:100px; */
-  font-size: 4vw;
+  font-size: 6vw;
   font-family: "Saira", sans-serif;
   font-weight: 200;
   margin-bottom: 50px;
 }
+
 .sticky-navbar > ul {
   color: white;
   font-size: 1.75rem;
@@ -48,6 +49,7 @@
   -webkit-transition-property: transform;
   transition-property: transform;
 }
+
 .hvr-forward:hover,
 .hvr-forward:focus,
 .hvr-forward:active {
